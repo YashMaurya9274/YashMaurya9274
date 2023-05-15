@@ -34,132 +34,128 @@
 
 ### Frameworks and Technologies I have worked with
 
-<img
-  align="left"
-  alt="React"
-  src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"
-/>
-<img
-  align="left"
-  width="85px"
-  height="30"
-  alt="Nextjs"
-  src="https://d2mk45aasx86xg.cloudfront.net/Top_Features_in_Next_js_13_7f9a32190f.webp"
-/>
-<img
-  align="left"
-  width="85px"
-  height="35"
-  alt="React native"
-  src="https://www.appstud.com/wp-content/uploads/2018/03/React-Native-Titre.png"
-/>
-<img
-  align="left"
-  alt="Git"
-  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"
-/>
-<img
-  align="left"
-  alt="GitHub"
-  src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"
-/>
-<img
-  align="left"
-  width="85px"
-  height="35"
-  alt="Nodejs"
-  src="https://colorlib.com/cdn-cgi/image/width=1600,height=948,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/sites/2/nodejs-frameworks.png"
-/>
-<img
-  align="left"
-  alt="Firebase"
-  src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"
-/>
-</br>
-<img
-  align="left"
-  width="85px"
-  height="30"
-  alt="mongodb"
-  src="https://www.zend.com/sites/default/files/image/2019-09/logo-mongodb.jpg"
-/>
-<img
-  align="left"
-  width="85px"
-  height="30"
-  alt="supabase"
-  src="https://user-images.githubusercontent.com/10214025/93011810-4c45d580-f5cc-11ea-8f83-2ef7b5bb671f.png"
-/>
+<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center">
+  <img
+    align="left"
+    alt="React"
+    src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"
+  />
+  <img
+    align="left"
+    width="85px"
+    height="30"
+    alt="Nextjs"
+    src="https://d2mk45aasx86xg.cloudfront.net/Top_Features_in_Next_js_13_7f9a32190f.webp"
+  />
+  <img
+    align="left"
+    width="85px"
+    height="35"
+    alt="React native"
+    src="https://www.appstud.com/wp-content/uploads/2018/03/React-Native-Titre.png"
+  />
+  <img
+    align="left"
+    alt="Git"
+    src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"
+  />
+  <img
+    align="left"
+    alt="GitHub"
+    src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"
+  />
+  <img
+    align="left"
+    width="85px"
+    height="35"
+    alt="Nodejs"
+    src="https://colorlib.com/cdn-cgi/image/width=1600,height=948,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/sites/2/nodejs-frameworks.png"
+  />
+  <img
+    align="left"
+    alt="Firebase"
+    src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"
+  />
+  <img
+    align="left"
+    width="85px"
+    height="30"
+    alt="mongodb"
+    src="https://www.zend.com/sites/default/files/image/2019-09/logo-mongodb.jpg"
+  />
+  <img
+    align="left"
+    width="85px"
+    height="30"
+    alt="supabase"
+    src="https://user-images.githubusercontent.com/10214025/93011810-4c45d580-f5cc-11ea-8f83-2ef7b5bb671f.png"
+  />
 
-</br>
-
-<p>&nbsp;</p>
-<img
-  align="left"
-  width="85px"
-  height="35"
-  alt="sanity"
-  src="https://www.pngitem.com/pimgs/m/116-1166936_sanity-io-logo-png-transparent-png.png"
-/>
-<img
-  align="left"
-  width="85px"
-  height="35"
-  alt="Material UI"
-  src="https://res.cloudinary.com/practicaldev/image/fetch/s--0GLg37Wj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x99qusomdtlnzm8zizen.png"
-/>
-<img
-  align="left"
-  width="85px"
-  height="35"
-  alt="Redux"
-  src="https://techvccloud.mediacdn.vn/280518386289090560/2022/6/30/redux-la-gi-16565735223341834615076-0-0-337-600-crop-1656573526736911423366.jpg"
-/>
-<img
-  align="left"
-  width="85px"
-  height="35"
-  alt="TailwindCSS"
-  src="https://miro.medium.com/v2/resize:fit:644/1*d7Xs5RnaqcQtKzbNrAOAYA.png"
-/>
-<img
-  align="left"
-  width="85px"
-  height="35"
-  alt="Nodejs"
-  src="https://res.cloudinary.com/practicaldev/image/fetch/s--7mIh228C--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/i/w2l9sw1ssdl4vkv3766o.jpeg"
-/>
-<img
-  align="left"
-  width="85px"
-  height="35"
-  alt="Expo"
-  src="https://res.cloudinary.com/practicaldev/image/fetch/s--OK5nAo07--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/rmqgubejyi0rjkn87moo.png"
-/>
-<img
-  align="left"
-  width="85px"
-  height="35"
-  alt="Metamask"
-  src="https://www.shutterstock.com/image-vector/metamask-block-chain-based-cryptocurrency-260nw-2181637317.jpg"
-/>
-<img
-  align="left"
-  width="85px"
-  height="35"
-  alt="Apollo"
-  src="https://flaviocopes.com/images/apollo/logo.png"
-/>
-
-</br>
-
-<img
-  align="left"
-  width="85px"
-  height="35"
-  alt="Graphql"
-  src="https://graphql.org/img/og-image.png"
-/>
+  <p>&nbsp;</p>
+  <img
+    align="left"
+    width="85px"
+    height="35"
+    alt="sanity"
+    src="https://www.pngitem.com/pimgs/m/116-1166936_sanity-io-logo-png-transparent-png.png"
+  />
+  <img
+    align="left"
+    width="85px"
+    height="35"
+    alt="Material UI"
+    src="https://res.cloudinary.com/practicaldev/image/fetch/s--0GLg37Wj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x99qusomdtlnzm8zizen.png"
+  />
+  <img
+    align="left"
+    width="85px"
+    height="35"
+    alt="Redux"
+    src="https://techvccloud.mediacdn.vn/280518386289090560/2022/6/30/redux-la-gi-16565735223341834615076-0-0-337-600-crop-1656573526736911423366.jpg"
+  />
+  <img
+    align="left"
+    width="85px"
+    height="35"
+    alt="TailwindCSS"
+    src="https://miro.medium.com/v2/resize:fit:644/1*d7Xs5RnaqcQtKzbNrAOAYA.png"
+  />
+  <img
+    align="left"
+    width="85px"
+    height="35"
+    alt="Nodejs"
+    src="https://res.cloudinary.com/practicaldev/image/fetch/s--7mIh228C--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/i/w2l9sw1ssdl4vkv3766o.jpeg"
+  />
+  <img
+    align="left"
+    width="85px"
+    height="35"
+    alt="Expo"
+    src="https://res.cloudinary.com/practicaldev/image/fetch/s--OK5nAo07--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/rmqgubejyi0rjkn87moo.png"
+  />
+  <img
+    align="left"
+    width="85px"
+    height="35"
+    alt="Metamask"
+    src="https://www.shutterstock.com/image-vector/metamask-block-chain-based-cryptocurrency-260nw-2181637317.jpg"
+  />
+  <img
+    align="left"
+    width="85px"
+    height="35"
+    alt="Apollo"
+    src="https://flaviocopes.com/images/apollo/logo.png"
+  />
+  <img
+    align="left"
+    width="85px"
+    height="35"
+    alt="Graphql"
+    src="https://graphql.org/img/og-image.png"
+  />
+</div>
 
 <!-- <br><br> -->
 
