@@ -75,6 +75,7 @@
   alt="Firebase"
   src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"
 />
+</br>
 <img
   align="left"
   width="85px"
@@ -89,6 +90,8 @@
   alt="supabase"
   src="https://user-images.githubusercontent.com/10214025/93011810-4c45d580-f5cc-11ea-8f83-2ef7b5bb671f.png"
 />
+
+</br>
 
 <p>&nbsp;</p>
 <img
@@ -147,13 +150,16 @@
   alt="Apollo"
   src="https://flaviocopes.com/images/apollo/logo.png"
 />
+
+</br>
+
 <img
   align="left"
   width="85px"
   height="35"
   alt="Graphql"
   src="https://graphql.org/img/og-image.png"
-    />
+/>
 
 <!-- <br><br> -->
 
