@@ -161,8 +161,6 @@
 <br><br>
 <br><br>
 <br><br>
-<br><br>
-<br><br>
 
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashMaurya9274&&count_private=true&show_icons=true&theme=radical)
 <br><br>
