@@ -38,7 +38,7 @@
   <img
     align="left"
     alt="React"
-    src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"
+    src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_1280.png"
   />
   <img
     align="left"
