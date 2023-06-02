@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/yash-maurya-674030204/" target="_blank">
-  <img  align="left" width="28px" src="https://pbs.twimg.com/profile_images/1508518003184349187/1KQYoqPY_400x400.png" />
+  <img  align="left" width="28px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_1280.png" />
 </a>
 
 <a href="https://twitter.com/YashMaurya_Tech" target="_blank">
@@ -38,7 +38,7 @@
   <img
     align="left"
     alt="React"
-    src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_1280.png"
+    src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"
   />
   <img
     align="left"
