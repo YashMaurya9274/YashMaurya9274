@@ -52,7 +52,7 @@
     width="85px"
     height="35"
     alt="React native"
-    src="https://www.appstud.com/wp-content/uploads/2018/03/React-Native-Titre.png"
+    src="https://miro.medium.com/v2/1*AjesIvV-kkwk6LLvNf1t4A.png"
   />
   <img
     align="left"
@@ -69,7 +69,7 @@
     width="85px"
     height="35"
     alt="Nodejs"
-    src="https://colorlib.com/cdn-cgi/image/width=1600,height=948,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/sites/2/nodejs-frameworks.png"
+    src="https://sciencevikinglabs.com/assets/img/development/node-processes/header.png"
   />
   <img
     align="left"
@@ -139,7 +139,7 @@
     width="85px"
     height="35"
     alt="Metamask"
-    src="https://www.shutterstock.com/image-vector/metamask-block-chain-based-cryptocurrency-260nw-2181637317.jpg"
+    src="https://www.investopedia.com/thmb/v5K6POcZQXnjy1MhKNSNTghQ6jM=/fit-in/1500x750/filters:format(png):fill(white):max_bytes(150000):strip_icc()/Metamask_logo-aca547fe6081482085662b03e2235f98.jpg"
   />
   <img
     align="left"
