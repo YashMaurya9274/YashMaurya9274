@@ -67,9 +67,7 @@
 ![Static Badge](https://img.shields.io/badge/Software-Figma-informational?logo=figma&logoColor=%23A259FF&labelColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Software-Slack-informational?logo=slack&logoColor=%234A154B&labelColor=%23FFFFFF)
 
-<br><br>
-<br><br>
-
+## 📊 Statistics
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashMaurya9274&&count_private=true&show_icons=true&theme=radical)
 <br><br>
 ![Yash's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=YashMaurya9274&theme=blue-green)
