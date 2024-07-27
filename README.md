@@ -27,25 +27,42 @@
 
 ![Static Badge](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
 ![Static Badge](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript)
+
+### Front End
 ![Static Badge](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html5)
 ![Static Badge](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=css3)
 ![Static Badge](https://img.shields.io/badge/Code-React-informational?logo=react)
 ![Static Badge](https://img.shields.io/badge/Code-Next-informational?logo=nextdotjs)
 ![Static Badge](https://img.shields.io/badge/Code-React%20Native-informational?logo=react)
-![Static Badge](https://img.shields.io/badge/Code-Git-informational?logo=git)
-![Static Badge](https://img.shields.io/badge/Code-Github-informational?logo=github)
+![Static Badge](https://img.shields.io/badge/Code-Material%20UI-informational?logo=mui)
+![Static Badge](https://img.shields.io/badge/Code-Redux-informational?logo=redux&logoColor=%23764ABC&labelColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/Code-Tailwind%20CSS-informational?logo=tailwindcss)
+![Static Badge](https://img.shields.io/badge/Code-Apollo%20Client-informational?logo=apollographql&logoColor=%23311C87&labelColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/Code-GraphQL-informational?logo=graphql&logoColor=%23E10098&labelColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/Code-Expo-informational?logo=expo)
+![Static Badge](https://img.shields.io/badge/Code-Styled%20Components-informational?logo=styledcomponents)
+![Static Badge](https://img.shields.io/badge/Code-Recoil-informational?logo=recoil)
+![Static Badge](https://img.shields.io/badge/Code-Shadcn%20UI-informational?logo=shadcnui&logoColor=%23000000&labelColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/Code-Environment%20Variables-informational?logo=dotenv)
+
+### Version Control System
+![Static Badge](https://img.shields.io/badge/Version%20Control-Git-informational?logo=git)
+![Static Badge](https://img.shields.io/badge/Version%20Control-Github-informational?logo=github)
+
+### Back End
 ![Static Badge](https://img.shields.io/badge/Code-Node-informational?logo=nodedotjs)
 ![Static Badge](https://img.shields.io/badge/Code-Firebase-informational?logo=firebase&logoColor=%23EB844E)
 ![Static Badge](https://img.shields.io/badge/Code-MongoDB-informational?logo=mongodb)
 ![Static Badge](https://img.shields.io/badge/Code-Supabase-informational?logo=supabase)
 ![Static Badge](https://img.shields.io/badge/Code-Sanity%20CMS-informational?logo=sanity)
-![Static Badge](https://img.shields.io/badge/Code-Material%20UI-informational?logo=mui)
-![Static Badge](https://img.shields.io/badge/Code-Redux-informational?logo=redux&logoColor=%23764ABC&labelColor=%23FFFFFF)
-![Static Badge](https://img.shields.io/badge/Code-Tailwind%20CSS-informational?logo=tailwindcss)
 ![Static Badge](https://img.shields.io/badge/Code-Pusher-informational?logo=pusher&logoColor=%23300D4F&labelColor=%23FFFFFF)
-![Static Badge](https://img.shields.io/badge/Code-Expo-informational?logo=expo)
-![Static Badge](https://img.shields.io/badge/Code-Apollo%20Client-informational?logo=apollographql&logoColor=%23311C87&labelColor=%23FFFFFF)
-![Static Badge](https://img.shields.io/badge/Code-GraphQL-informational?logo=graphql&logoColor=%23E10098&labelColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/Code-My%20SQL-informational?logo=mysql&labelColor=%23FFFFFF)
+
+### Team & Task Management Softwares Used
+![Static Badge](https://img.shields.io/badge/Software-Clickup-informational?logo=clickup&labelColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/Software-Jira-informational?logo=jira&logoColor=%230052CC&labelColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/Software-Figma-informational?logo=figma&logoColor=%23A259FF&labelColor=%23FFFFFF)
+
 
 <br><br>
 <br><br>
