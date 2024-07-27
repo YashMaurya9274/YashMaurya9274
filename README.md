@@ -25,6 +25,8 @@
 
 ### Languages I use to talk to computer 🤔
 
+![Static Badge](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
+
 <img align="left" alt="JavaScript" width="85px" height="35" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img align="left" width="85px" height="35" src="https://cdn.thenewstack.io/media/2022/01/10b88c68-typescript-logo.png">
 <img align="left" width="85px" height="35" src="https://www.nicepng.com/png/detail/352-3529769_html5-course-training-content-details-logo-html-5.png">
