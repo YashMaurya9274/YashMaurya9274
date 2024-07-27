@@ -28,9 +28,7 @@
 ![Static Badge](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
 ![Static Badge](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript)
 ![Static Badge](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html5)
-![Static Badge](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=css3)
-
-<p>&nbsp;</p>
+![Static Badge](https://img.shields.io/badge/Code-Css-informational?style=flat&color=warning&logo=css3)
 
 ### Frameworks and Technologies I have worked with
 
