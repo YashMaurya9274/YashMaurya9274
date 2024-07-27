@@ -28,23 +28,15 @@
 ![Static Badge](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
 ![Static Badge](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript)
 ![Static Badge](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html5)
-![Static Badge](https://img.shields.io/badge/Code-Css-informational?style=flat&color=warning&logo=css3)
+![Static Badge](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=css3)
+![Static Badge](https://img.shields.io/badge/Code-React-informational?logo=react)
+![Static Badge](https://img.shields.io/badge/Code-Next-informational?logo=nextdotjs)
+![Static Badge](https://img.shields.io/badge/Code-ReactNative-informational?logo=react)
+
 
 ### Frameworks and Technologies I have worked with
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center">
-  <img
-    align="left"
-    alt="React"
-    src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"
-  />
-  <img
-    align="left"
-    width="85px"
-    height="30"
-    alt="Nextjs"
-    src="https://d2mk45aasx86xg.cloudfront.net/Top_Features_in_Next_js_13_7f9a32190f.webp"
-  />
   <img
     align="left"
     width="85px"
