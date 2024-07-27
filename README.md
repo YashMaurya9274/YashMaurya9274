@@ -23,14 +23,12 @@
 - 🌱 My tech-stack includes javascript, typescript, reactjs, react native, nextjs, redux, firebase and more.
 - 🏆 Top scorer in TCS Reactjs Hackathon.
 
-### Languages I use to talk to computer 🤔
+## 🛠️ Technologies & Tools
 
 ![Static Badge](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
-
-<img align="left" alt="JavaScript" width="85px" height="35" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img align="left" width="85px" height="35" src="https://cdn.thenewstack.io/media/2022/01/10b88c68-typescript-logo.png">
-<img align="left" width="85px" height="35" src="https://www.nicepng.com/png/detail/352-3529769_html5-course-training-content-details-logo-html-5.png">
-<img align="left" width="85px" height="35" src="https://pixelmechanics.com.sg/wp-content/uploads/2019/04/css.jpg">
+![Static Badge](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript)
+![Static Badge](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html5)
+![Static Badge](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=css3)
 
 <p>&nbsp;</p>
 
