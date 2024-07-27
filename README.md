@@ -34,6 +34,8 @@
 ![Static Badge](https://img.shields.io/badge/Code-React-informational?logo=react)
 ![Static Badge](https://img.shields.io/badge/Code-Next-informational?logo=nextdotjs)
 ![Static Badge](https://img.shields.io/badge/Code-React%20Native-informational?logo=react)
+![Static Badge](https://img.shields.io/badge/Code-Android-informational?logo=android&labelColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/Code-IOS-informational?logo=ios&logoColor=%23000000&labelColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Code-Material%20UI-informational?logo=mui)
 ![Static Badge](https://img.shields.io/badge/Code-Redux-informational?logo=redux&logoColor=%23764ABC&labelColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Code-Tailwind%20CSS-informational?logo=tailwindcss)
@@ -44,6 +46,7 @@
 ![Static Badge](https://img.shields.io/badge/Code-Recoil-informational?logo=recoil)
 ![Static Badge](https://img.shields.io/badge/Code-Shadcn%20UI-informational?logo=shadcnui&logoColor=%23000000&labelColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Code-Environment%20Variables-informational?logo=dotenv)
+![Static Badge](https://img.shields.io/badge/Auth-Clerk-informational?logo=clerk&logoColor=%236C47FF&labelColor=%23FFFFFF)
 
 ### Version Control System
 ![Static Badge](https://img.shields.io/badge/Version%20Control-Git-informational?logo=git)
@@ -62,7 +65,7 @@
 ![Static Badge](https://img.shields.io/badge/Software-Clickup-informational?logo=clickup&labelColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Software-Jira-informational?logo=jira&logoColor=%230052CC&labelColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Software-Figma-informational?logo=figma&logoColor=%23A259FF&labelColor=%23FFFFFF)
-
+![Static Badge](https://img.shields.io/badge/Software-Slack-informational?logo=slack&logoColor=%234A154B&labelColor=%23FFFFFF)
 
 <br><br>
 <br><br>
