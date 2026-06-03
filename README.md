@@ -29,6 +29,12 @@
 ![Static Badge](https://img.shields.io/badge/Code-Typescript-informational?logo=typescript&logoColor=%233178C6&labelColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Code-Python-informational?logo=python&logoColor=%233776AB&labelColor=%23FFFFFF)
 
+### AI Coding Assistants
+![Static Badge](https://img.shields.io/badge/AI-Cursor-informational?logo=cursor&logoColor=%23000000&labelColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/AI-Claude-informational?logo=claude&logoColor=%23D97757&labelColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/AI-GoogleGemini-informational?logo=googlegemini&logoColor=%238E75B2&labelColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/AI-ModelContextProtocol-informational?logo=modelcontextprotocol&logoColor=%23000000&labelColor=%23FFFFFF)
+
 ### Front End
 ![Static Badge](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html5)
 ![Static Badge](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=css3)
@@ -52,7 +58,7 @@
 ![Static Badge](https://img.shields.io/badge/Auth-Firebase-informational?logo=firebase&logoColor=%23DD2C00&labelColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Auth-Clerk-informational?logo=clerk&logoColor=%236C47FF&labelColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Auth-Supabase-informational?logo=supabase&logoColor=%233FCF8E)
-![Static Badge](https://img.shields.io/badge/Code-JsonWebTokens-informational?logo=jsonwebtokens&logoColor=%23000000&labelColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/Auth-JsonWebTokens-informational?logo=jsonwebtokens&logoColor=%23000000&labelColor=%23FFFFFF)
 
 ### Version Control System
 ![Static Badge](https://img.shields.io/badge/Version%20Control-Git-informational?logo=git)
