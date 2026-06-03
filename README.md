@@ -32,8 +32,8 @@
 ### AI Coding Assistants
 ![Static Badge](https://img.shields.io/badge/AI-Cursor-informational?logo=cursor&logoColor=%23000000&labelColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/AI-Claude-informational?logo=claude&logoColor=%23D97757&labelColor=%23FFFFFF)
-![Static Badge](https://img.shields.io/badge/AI-GoogleGemini-informational?logo=googlegemini&logoColor=%238E75B2&labelColor=%23FFFFFF)
-![Static Badge](https://img.shields.io/badge/AI-ModelContextProtocol-informational?logo=modelcontextprotocol&logoColor=%23000000&labelColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/AI-Google%20Gemini-informational?logo=googlegemini&logoColor=%238E75B2&labelColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/AI-Model%20Context%20Protocol-informational?logo=modelcontextprotocol&logoColor=%23000000&labelColor=%23FFFFFF)
 
 ### Front End
 ![Static Badge](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html5)
@@ -58,7 +58,7 @@
 ![Static Badge](https://img.shields.io/badge/Auth-Firebase-informational?logo=firebase&logoColor=%23DD2C00&labelColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Auth-Clerk-informational?logo=clerk&logoColor=%236C47FF&labelColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Auth-Supabase-informational?logo=supabase&logoColor=%233FCF8E)
-![Static Badge](https://img.shields.io/badge/Auth-JsonWebTokens-informational?logo=jsonwebtokens&logoColor=%23000000&labelColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/Auth-Json%20Web%20Tokens-informational?logo=jsonwebtokens&logoColor=%23000000&labelColor=%23FFFFFF)
 
 ### Version Control System
 ![Static Badge](https://img.shields.io/badge/Version%20Control-Git-informational?logo=git)
@@ -73,13 +73,18 @@
 ![Static Badge](https://img.shields.io/badge/Code-Pusher-informational?logo=pusher&logoColor=%23300D4F&labelColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Code-My%20SQL-informational?logo=mysql&labelColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Code-Nest-informational?logo=nestjs&logoColor=%23E0234E&labelColor=%23FFFFFF)
-![Static Badge](https://img.shields.io/badge/Code-JsonWebTokens-informational?logo=jsonwebtokens&logoColor=%23000000&labelColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/Code-Json%20Web%20Tokens-informational?logo=jsonwebtokens&logoColor=%23000000&labelColor=%23FFFFFF)
 
 ### Team & Task Management Softwares Used
 ![Static Badge](https://img.shields.io/badge/Software-Clickup-informational?logo=clickup&labelColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Software-Jira-informational?logo=jira&logoColor=%230052CC&labelColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Software-Figma-informational?logo=figma&logoColor=%23A259FF&labelColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Software-Slack-informational?logo=slack&logoColor=%234A154B&labelColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/Software-Zoho%20Projects-informational?logo=zoho&logoColor=%23E42527&labelColor=%23FFFFFF)
+
+### Analytics
+![Static Badge](https://img.shields.io/badge/AI-New%20Relic-informational?logo=newrelic&logoColor=%231CE783)
+![Static Badge](https://img.shields.io/badge/AI-Google%20Analytics-informational?logo=googleanalytics&logoColor=%23E37400)
 
 ## 📊 Statistics
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashMaurya9274&&count_private=true&show_icons=true&theme=radical)
