@@ -47,13 +47,12 @@
 ![Static Badge](https://img.shields.io/badge/Code-Recoil-informational?logo=recoil)
 ![Static Badge](https://img.shields.io/badge/Code-Shadcn%20UI-informational?logo=shadcnui&logoColor=%23000000&labelColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Code-Environment%20Variables-informational?logo=dotenv)
-![Static Badge](https://img.shields.io/badge/Code-Nest-informational?logo=nestjs&logoColor=%23E0234E)
-![Static Badge](https://img.shields.io/badge/Code-Supabase-informational?logo=supabase&logoColor=%233FCF8E)
 
 ### Authentication
 ![Static Badge](https://img.shields.io/badge/Auth-Firebase-informational?logo=firebase&logoColor=%23DD2C00&labelColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Auth-Clerk-informational?logo=clerk&logoColor=%236C47FF&labelColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Auth-Supabase-informational?logo=supabase&logoColor=%233FCF8E)
+![Static Badge](https://img.shields.io/badge/Code-JsonWebTokens-informational?logo=jsonwebtokens&logoColor=%23000000&labelColor=%23FFFFFF)
 
 ### Version Control System
 ![Static Badge](https://img.shields.io/badge/Version%20Control-Git-informational?logo=git)
@@ -67,6 +66,8 @@
 ![Static Badge](https://img.shields.io/badge/Code-Sanity%20CMS-informational?logo=sanity)
 ![Static Badge](https://img.shields.io/badge/Code-Pusher-informational?logo=pusher&logoColor=%23300D4F&labelColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Code-My%20SQL-informational?logo=mysql&labelColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/Code-Nest-informational?logo=nestjs&logoColor=%23E0234E&labelColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/Code-JsonWebTokens-informational?logo=jsonwebtokens&logoColor=%23000000&labelColor=%23FFFFFF)
 
 ### Team & Task Management Softwares Used
 ![Static Badge](https://img.shields.io/badge/Software-Clickup-informational?logo=clickup&labelColor=%23FFFFFF)
