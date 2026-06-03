@@ -26,7 +26,8 @@
 ## 🛠️ Technologies & Tools
 
 ![Static Badge](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
-![Static Badge](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript)
+![Static Badge](https://img.shields.io/badge/Code-Typescript-informational?logo=typescript&logoColor=%233178C6&labelColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/Code-Python-informational?logo=python&logoColor=%233776AB&labelColor=%23FFFFFF)
 
 ### Front End
 ![Static Badge](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html5)
@@ -46,7 +47,13 @@
 ![Static Badge](https://img.shields.io/badge/Code-Recoil-informational?logo=recoil)
 ![Static Badge](https://img.shields.io/badge/Code-Shadcn%20UI-informational?logo=shadcnui&logoColor=%23000000&labelColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Code-Environment%20Variables-informational?logo=dotenv)
+![Static Badge](https://img.shields.io/badge/Code-Nest-informational?logo=nestjs&logoColor=%23E0234E)
+![Static Badge](https://img.shields.io/badge/Code-Supabase-informational?logo=supabase&logoColor=%233FCF8E)
+
+### Authentication
+![Static Badge](https://img.shields.io/badge/Auth-Firebase-informational?logo=firebase&logoColor=%23DD2C00&labelColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Auth-Clerk-informational?logo=clerk&logoColor=%236C47FF&labelColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/Auth-Supabase-informational?logo=supabase&logoColor=%233FCF8E)
 
 ### Version Control System
 ![Static Badge](https://img.shields.io/badge/Version%20Control-Git-informational?logo=git)
