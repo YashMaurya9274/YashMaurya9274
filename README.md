@@ -83,8 +83,9 @@
 ![Static Badge](https://img.shields.io/badge/Software-Zoho%20Projects-informational?logo=zoho&logoColor=%23E42527&labelColor=%23FFFFFF)
 
 ### Analytics
-![Static Badge](https://img.shields.io/badge/AI-New%20Relic-informational?logo=newrelic&logoColor=%231CE783)
-![Static Badge](https://img.shields.io/badge/AI-Google%20Analytics-informational?logo=googleanalytics&logoColor=%23E37400)
+![Static Badge](https://img.shields.io/badge/Analytics-New%20Relic-informational?logo=newrelic&logoColor=%231CE783)
+![Static Badge](https://img.shields.io/badge/Analytics-Google%20Analytics-informational?logo=googleanalytics&logoColor=%23E37400&labelColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/Analytics-Microsoft%20Clarity-informational?labelColor=%23FFFFFF)
 
 ## 📊 Statistics
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashMaurya9274&&count_private=true&show_icons=true&theme=radical)
